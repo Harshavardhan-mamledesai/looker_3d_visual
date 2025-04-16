@@ -1,0 +1,10 @@
+{
+  "label": "3D Contour Plot",
+  "tagline": "Interactive 3D surface and contour plots for Looker.",
+  "category": "visualization",
+  "supported_platforms": ["looker"],
+  "file": "manifest.lkml",
+  "documentation_url": "https://github.com/Harshavardhan-mamledesai/looker_3d_visual",
+  "support_url": "https://github.com/Harshavardhan-mamledesai/looker_3d_visual/issues",
+  "description": "A Looker custom visualization to render interactive 3D contour and surface plots using Plotly.js."
+}
