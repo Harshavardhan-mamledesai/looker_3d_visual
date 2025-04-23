@@ -8,6 +8,11 @@ visualizations: [
     id: "looker_3d_contour",
     label: "3D Contour Plot",
     file: "src/visualization.js"
+  },
+  {
+    id: "hello_world",
+    label: "Hello World",
+    file: "src/hello_world.js"
   }
 ]
 
