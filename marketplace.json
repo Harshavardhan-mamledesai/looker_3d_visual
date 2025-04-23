@@ -1,9 +1,9 @@
 {
-  "label": "3D Contour Plot",
+  "label": "3D Sankey",
   "category_label": "plug-ins",
   "branding": {
     "image_uri": "https://raw.githubusercontent.com/Harshavardhan-mamledesai/looker_3d_visual/main/icon.png",
-    "tagline": "Interactive 3D surface and contour plots for Looker."
+    "tagline": "Interactive 3D Sankey diagrams for Looker."
   },
   "constants": {
     "vis_label": {
@@ -20,6 +20,6 @@
   "file": "manifest.lkml",
   "documentation_url": "https://github.com/Harshavardhan-mamledesai/looker_3d_visual",
   "support_url": "https://github.com/Harshavardhan-mamledesai/looker_3d_visual/issues",
-  "description": "A Looker custom visualization to render interactive 3D contour and surface plots using Plotly.js."
+  "description": "A Looker custom visualization to render interactive 3D Sankey diagrams for data flow visualization."
 }
 
