@@ -3,10 +3,19 @@
 project_name: "3d_graphs_for_looker"
 
 # Add your visualization to the visualizations block
-visualization: looker_3d_visual {
-  url: "git://github.com/Harshavardhan-mamledesai/looker_3d_visual.git"
-}
+visualizations: [
+  {
+    id: "looker_3d_contour",
+    label: "3D Contour Plot",
+    file: "src/visualization.js"
+  },
+  {
+    id: "hello_world",
+    label: "Hello World",
+    file: "src/hello_world.js"
+  }
+]
 
-description: "Interactive 3D Contour Plot visualization for Looker"
+description: "Interactive 3D Contour Plot visualization for Looker Marketplace"
 author: "Your Name"
 version: "1.0.0"
