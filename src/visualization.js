@@ -50,6 +50,7 @@ looker.plugins.visualizations.add({
           width: 100%;
           height: 100%;
           min-height: 500px;
+          font-family: Helvetica, Arial, sans-serif;
         }
       </style>
       <div class="plotly-container"></div>
